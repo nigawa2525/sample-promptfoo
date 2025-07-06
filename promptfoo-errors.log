@@ -1,0 +1,4 @@
+2025-07-06T03:51:29.752Z [ERROR]: Anthropic Messages API call error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-07-06T03:51:29.757Z [ERROR]: Anthropic Messages API call error: 400 {"type":"error","error":{"type":"invalid_request_error","message":"Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits."}}
+2025-07-06T03:56:48.890Z [ERROR]: Anthropic Messages API call error: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"}}
+2025-07-06T03:56:48.894Z [ERROR]: Anthropic Messages API call error: 401 {"type":"error","error":{"type":"authentication_error","message":"invalid x-api-key"}}
