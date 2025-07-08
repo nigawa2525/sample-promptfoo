@@ -31,8 +31,7 @@ my-promptfoo-project/
 ├── README.md                    # このファイル
 ├── promptfooconfig.yaml         # promptfooの設定ファイル
 ├── promptfoo-errors.log         # エラーログ
-├── .env                         # 環境変数ファイル（APIキー設定）
-└── .git/                        # Gitリポジトリ
+└── .env                         # 環境変数ファイル（APIキー設定）
 ```
 
 ## 動作環境
