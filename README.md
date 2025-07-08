@@ -4,9 +4,9 @@
 
 このプロジェクトは、[promptfoo](https://promptfoo.dev/)を使用したプロンプトエンジニアリングの評価サンプルです。複数のAIモデル（OpenAI GPT-4o、Anthropic Claude Sonnet）を使用して、プロンプトの品質と安全性を評価します。
 
-## promptfooとは
+## Promptfooとは
 
-promptfooは、AIプロンプトの品質を評価・テストするためのオープンソースツールです。以下の機能を提供します：
+Promptfooは、AIプロンプトの品質を評価・テストするためのオープンソースツールです。以下の機能を提供します：
 
 - **複数AIモデルでの比較**: 同じプロンプトを複数のAIモデルで実行し、結果を比較
 - **自動テスト**: 期待される出力を定義し、自動的にテスト実行
@@ -49,7 +49,7 @@ git clone https://github.com/nigawa2525/sample-promptfoo.git
 cd sample-promptfoo
 ```
 
-### 2. promptfooのインストール
+### 2. Promptfooのインストール
 
 ```bash
 npm install -g promptfoo
